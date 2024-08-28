@@ -1,0 +1,73 @@
+In this part, I learned about some important Linux CLI commands
+ that are useful for daily tasks as a programmer
+
+ man - to see manual for commands
+
+Navigation
+
+
+pwd             - to get the current working directory
+ls              - to list the files and directories in the current directory
+cd              - to change the current directory
+cd ..           - to move up one directory level
+cd ~            - to go to the home directory
+
+---File and Directory ----------
+
+
+mkdir                  - to create a new directory
+touch                    - to create a new empty file
+cp <oldpath>   <newpath> - to copy files or directories
+mv <oldpath>   <newpath> - to move or rename files or directories
+rm <filename>            - to remove a file
+rm -r <directory>        - to remove a directory and its contents recursively
+
+-----Viewing----- 
+
+
+cat  - to display the contents of a file
+less - to view the contents of a file page by page
+head - to display the first 10 lines of a file
+tail - to display the last 10 lines of a file
+nano - to edit a file using the Nano editor
+vim - to edit a file using the Vim editor
+
+-----System Information-----
+
+
+
+uname -a    - to display system information
+top         - to display running processes and system resource usage
+df -h       - to display disk space usage
+du -sh      - to display the size of a directory
+free -h     - to display memory usage
+ps          - to get process id,another data 
+kill   pid  - kill the process
+
+
+
+-----permissions and Ownership-----
+
+
+chmod        - to change the file permissions
+chown        - to change the file owner and group
+
+
+-------Networking-------
+
+
+ifconfig    - to display or configure network 
+ping <host> - to check the connectivity to a host
+curl <url>  - to transfer data from or to a server
+wget <url>  - to download files from the web
+
+
+
+---package -----
+sudo apt update -      to update the package lists
+sudo apt upgrade      - to upgrade installed packages
+sudo apt install <package> - to install a new package
+sudo apt remove <package> - to remove an installed package
+
+
+
