@@ -1,0 +1,80 @@
+                                                        Common Linux command
+
+File and Directory Operations
+
+    cd: Changes the current directory.
+    mkdir: Creates a new directory.
+    mv: Moves or renames files and directories.
+    cp: Copies files and directories.
+    ls: Lists files and directories.
+    pwd: Displays the current working directory.
+    rm: Deletes files or directories.
+    rmdir: Removes empty directories.
+    unlink: Deletes a single file.
+    ln: Creates hard and symbolic links to files.
+    findmnt: Displays information about mounted filesystems.
+
+File and Content Management
+
+    touch: Creates an empty file or updates the timestamp of an existing file.
+    cat: Concatenates and displays file content.
+    less: Views file content one page at a time.
+    more: Views file content one screen at a time.
+    tail: Displays the last few lines of a file.
+    diff: Compares files line by line and shows differences.
+    head: Displays the first few lines of a file.
+    file: Determines the type of a file.
+    md5sum: Calculates MD5 checksums for files.
+    chmod: Changes file permissions (e.g., chmod 755 file).
+    chown: Changes file ownership.
+    chgrp: Changes group ownership of files.
+
+System Information and Monitoring
+
+    top: Displays real-time system processes and resource usage.
+    df: Shows disk space usage for filesystems.
+    du: Displays disk usage of files and directories.
+    uptime: Shows how long the system has been running.
+    ps: Displays information about running processes.
+    date: Displays or sets the system date and time.
+    tree: Shows a tree structure of files and directories.
+
+Network Commands
+
+    ping: Tests network connectivity to a host.
+    netstat: Displays network connections and routing tables.
+    curl: Transfers data from or to a server using various protocols.
+    wget: Downloads files from the web.
+
+Package Management
+
+    sudo: Executes a command with superuser privileges.
+    apt: Advanced Package Tool; installs, updates, and manages packages.
+    dpkg: Manages Debian packages (e.g., install, remove).
+    yum: Package manager for RPM-based distributions.
+    rpm: Manages RPM packages.
+
+Archive and Compression
+
+    tar: Archives files and directories (e.g., tar -czf archive.tar.gz files).
+    gzip: Compresses files using the GNU zip algorithm.
+    bzip2: Compresses files using the bzip2 algorithm.
+    unzip: Extracts files from a ZIP archive.
+
+Search and Text Processing
+
+    grep: Searches for patterns in files.
+    find: Searches for files and directories in a directory hierarchy.
+    sort: Sorts lines of text files.
+    awk: Pattern scanning and text processing language.
+    sed: Stream editor for filtering and transforming text.
+    cut: Removes sections from lines of files.
+    xargs: Builds and executes command lines from standard input.
+
+Miscellaneous
+
+    alias: Creates shortcuts for commands.
+    history: Displays the command history.
+    echo: Displays a line of text or variables.
+    man: Displays the manual for a command.
+    rsync: Synchronizes files and directories between locations.
