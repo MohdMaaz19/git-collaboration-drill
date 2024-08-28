@@ -1,0 +1,49 @@
+Bread and Butter Commands - all important:
+
+    man - checking manual of commands
+    cd - for chenging directory
+    mkdir - creating folder
+    mv - moving files
+    cp - copy files
+    ls - list of all the files
+    pwd - present working directory
+    rm - deleting files/folders
+    chmod - changing permissions for files
+    chown - changing ownership for files
+    sudo - giving admin access
+    apt - advance package tool -- package manager -- install
+    touch - creating files
+    cat - read content of files
+    less - works for viewing content of files
+    more - works for viewing content of files
+    tail - view content from bottom
+    rsync - copy files from one place to other with sync means only those files copied which not present one another
+    grep - for searching in text of file
+    find - finding files
+    sort - sorting 
+    date - shows date
+    tree - shows tree structure of files
+    wc - word count
+
+OS/Process Related Commands:
+
+    ps - shows process
+    top - shows process 
+    df - shows disk storage and space
+    uname - shows user name / operating system info
+    free - shows info about memory usage
+    kill - used for killing process
+
+Network Related Commands:
+
+    ping - shows info about site like ip  , live or not
+    ifconfig - displays network interfaces
+    ssh - connecting to some pc/server remotely
+
+Bash Related Commands:
+
+    xargs - takes input as argument
+    nano - open text editor
+    awk - tool used for sorting navigating in texts
+    sed - strim editor for editing text or retriving desired lines
+    Pipe operator | - used for combining commands
