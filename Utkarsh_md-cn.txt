@@ -1,0 +1,38 @@
+**  ** __  __used for bold text
+
+*  * _  _ used for italic text
+
+both can be nested togeather
+
+*** *** for both applied togeather
+
+[]() used for giving links under text written in square brackets
+
+![]() used ! this before links for image display
+
+you can also give themes to image according to situation
+
+# used for heading 
+double or tripple used acording to heading levels such as h1,h2 tags in html
+
+> used for quotes  with diffrent colour
+
+` ` used for quoting some text
+
+*,.,- used for creating unordered list
+
+1.  used for creating ordered list
+
+ [x] used to mark task as done
+
+ @username used for mention
+
+ [^1] used for footnotes
+
+ [!TIP] used for headings/alerts above text 
+
+
+Computer Networks -group of interconnected computers across globe are called computer Networks
+in earlydays computers were not connected view internet or any thing.
+the whole internet based on these inter connected computers
+when we use a site we go to a server and ask for info/data from there thats how things works
