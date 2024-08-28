@@ -1,0 +1,34 @@
+markDown---
+
+#  -main heading
+## -second heading
+
+ ** text **   :Bold 
+ _  text _   :italick
+ ~~      ~~    : mark download
+ **  -  -   
+ <sub>  <sub>  :to creaye subscript
+ <sup>  <sup>  :superscript
+ ***    ***    :all bold and italic
+
+ >             :for quotes
+
+
+
+ links----
+ [  ]  -write text hear
+ ( )   -link of particular website or file
+ ![]()  -adding image 
+ -,+,*  -unorder list
+ [x]    -complete
+ @      -mentioning
+ [^1]   -footnote
+ : : emoji
+ [! ] :  for note,imp things
+ 
+
+
+---Networking---
+Network  : collection of interconnected things is the network
+computer network:use of computers for computing and for telicommunication
+what is innternet how it was connected learned 
