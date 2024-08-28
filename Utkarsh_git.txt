@@ -1,0 +1,10 @@
+clone - used for cloning repo
+add - adding files to staging area
+commit - for commiting changes -m used to give message for commit
+push - pushing changes to remote repo
+checkout - switching branches
+branch - for creating branch and with -r flag only get info about remote branches available
+fetch - updating local git repo from remote repo
+--amend - used for ammending commit messages
+status - shows current status of git repo and shows untracked file
+log - used for viewing log history
