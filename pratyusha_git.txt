@@ -1,0 +1,50 @@
+In this git session  I learnt about version controll,and why it is use full for daily bases to a programer
+and learnt about the things like how to use it.,what it will do.
+some of the more imp commands 
+configaration
+
+git config --global user.name" name"
+git config --global user.mail" mail"
+git --list                            #for cheak things
+
+Important command 
+
+git clone <link>                 -for cloning repo to your local system
+git status                       -to check the status of the file
+git add -A                        -To add the files to stage area
+git commit -m "messag"            -Add the file to local repo
+git remote add origin <----git link--->  -adding the origin to the particular repo
+git push origin <branch name>       -pushing file remotely
+git remote -v                       -to check what is remote
+
+----branch---
+
+git branch                         -to check current branch
+git checkout -b <branch name>      -creating new branch
+git branch -m <new-name>           -to rename
+git branch -d <branch name>         -delete the branch
+
+git diff                           -to see added data before commit
+git merge <branch name>            -merge the branches
+
+---fix-mistakes----
+
+This commands used when we dont wanted those changes ,when we wanted to go back 
+git reset  <file name>            -for added file
+git reset Head~1                  -for commited files
+git reset  <hash code>            -for more then one commit 
+git reset --hard <hash-code>      - for completly discord the changes
+git reset -amed                   -change last commit text 
+
+----logs---
+git log                         -hashcode of commits
+git log -p                      -hashcode with changed data
+
+
+There are a lot of commands are there i listed just important commands
+
+
+
+
+
+ 
