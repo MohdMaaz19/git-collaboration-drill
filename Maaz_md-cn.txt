@@ -1,0 +1,98 @@
+                                                                        Markdown Syntax 
+
+Bold Text
+
+    **bold** or __bold__
+    Renders text in bold.
+
+Italic Text
+
+    *italic* or _italic_
+    Renders text in italic.
+
+Bold and Italic Combined
+
+    ***bold and italic***
+    Renders text in both bold and italic.
+
+Links
+
+    [link text](URL)
+    Creates a hyperlink.
+
+Images
+
+    ![alt text](image URL)
+    Embeds an image with alt text.
+
+Headings
+
+    # Heading 1, ## Heading 2, ### Heading 3
+    Creates headings of different levels.
+
+Blockquotes
+
+    > quote
+    Renders a blockquote.
+
+Inline Code
+
+    `code`
+    Renders text as inline code.
+
+Unordered Lists
+
+    * item, - item, + item
+    Creates a bullet-point list.
+
+Ordered Lists
+
+    1. item
+    Creates a numbered list.
+
+Task Lists
+
+    - [x] completed task, - [ ] incomplete task
+    Creates checklists with task items.
+
+Mentions
+
+    @username
+    Mentions a user (depends on platform support).
+
+Footnotes
+
+    [text][^1] and [^1]: footnote text
+    Adds footnotes with references.
+
+Horizontal Rules
+
+    ---, ***, ___
+    Creates a horizontal line or divider.
+
+Tables
+
+    | Header | Header |
+    | ------- | ------- |
+    | Cell 1 | Cell 2 |
+    Creates a table with columns and rows.
+
+Code Blocks
+
+    ```language`
+    Creates a block of code with syntax highlighting.
+
+Strikethrough
+
+    ~~strikethrough~~
+    Renders text with a line through it.
+
+
+
+                                                            Computer Network
+
+A computer network is a collection of interconnected devices that communicate with each other to share resources and information.
+Networks can range from small local area networks (LANs) within a building to expansive global networks like the internet.
+Key components include computers, routers, switches, and cables, which facilitate data transmission.
+Networking protocols, such as TCP/IP, define rules for data exchange and ensure reliable communication.
+Networks enhance collaboration, resource sharing, and access to information across diverse systems.
